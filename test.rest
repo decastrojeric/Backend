@@ -1,0 +1,10 @@
+
+
+### Get All Books
+GET http://localhost:5000/api/v1/books/test
+
+
+
+
+### Get All Students
+GET http://localhost:5000/students/all
